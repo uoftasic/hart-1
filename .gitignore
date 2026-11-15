@@ -11,3 +11,11 @@ test/sim_build
 test/__pycache__/
 test/results.xml
 test/gate_level_netlist.v
+
+# TinyQV test/formal outputs
+src/tinyQV/test/sim_build/
+src/tinyQV/test/__pycache__/
+src/tinyQV/test/*.vcd
+src/tinyQV/test/*results.xml
+src/tinyQV/test/results.xml
+src/tinyQV/verify/sby/
